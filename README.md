@@ -1,5 +1,5 @@
 # Isolate UDP Socket Demo
-This is a UDP echo server demo program. Unlike conventional UDP programs, the server and the client in this program are located in different network namespace. The two different network namespace are connected by a bridge br0 created by OpenvSwitch. 
+This is a UDP echo server demo program. Unlike conventional UDP programs, the server and the client in this program are located in different network namespace. Two different network namespaces are connected by a bridge br0 created by OpenvSwitch. 
 
 ![arch](arch.png)
 
