@@ -5,7 +5,7 @@ This is a UDP echo server demo program. Unlike conventional UDP programs, the se
 
 The program works very simple: the client (C) sends a Hello from client message, and the server (S) replies with a Hello from server message.
 
-=======
+--------
 
 这是一个 UDP Hello World 示例代码，其效果十分简单：客户端（C）发送 Hello from client 消息，服务器（S）收到后回复 Hello from server 消息。
 
